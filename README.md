@@ -14,7 +14,7 @@ Install `setuptools_rust` and `Scrapy`
 
 On Linux :
 
-`source venv/bin/activate` if you a venv.
+`source venv/bin/activate` if you have a venv.
 
 `scrapy crawl plats -o out.csv -t csv`
 
